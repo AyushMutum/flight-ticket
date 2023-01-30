@@ -1,0 +1,37 @@
+.image{
+    border: 1px solid lightgreen;
+    padding: 20px;
+    margin: 20px auto;
+    width: 1200px;
+    background-color:lightgreen;
+    border-radius: 15px;
+    
+    
+}
+
+.heading1{
+    font-weight: normal;
+    color: gray;
+    margin-bottom: 0ch;
+
+}
+
+.logo-btn{
+    border: 2px dashed purple;
+    color:black;
+    padding: 10px 12px;
+    border-radius: 12px  ;
+    margin: 2px auto ;
+    font-size: larger;
+    font-weight:bold;
+}
+
+h1{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+h3{
+    margin-top: 0px;
+    margin-bottom: 40px;
+}
